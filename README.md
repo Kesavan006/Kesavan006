@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kesavan</h1>
-<h3 align="center">Electronics & Communication Engineer | Embedded Systems | Tech Explorer</h3>
+<h3 align="center">Electronics & Communication Engineer | Embedded Systems | FPGA Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=Future+Embedded+Engineer;VLSI+Enthusiast;Problem+Solver;Always+Building+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=Future+Embedded+Engineer;FPGA+%26+VLSI+Enthusiast;Problem+Solver;Always+Building+🚀" />
 </p>
 
 <p align="center">
