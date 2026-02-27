@@ -28,7 +28,7 @@
 ## 🔌 Embedded & FPGA Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Intel%20Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%20Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keil%20uVision-3949AB?style=for-the-badge&logo=arm&logoColor=white"/>
 </p>
@@ -55,7 +55,7 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
 ### 🔥 Emotion Detection System  
 AI-powered sentiment classification with GUI & Email Alerts  
