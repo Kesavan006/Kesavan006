@@ -1,47 +1,46 @@
-# <p align="center"><img src="https://capsule-render.vercel.app👋&fontSize=80&animation=fadeIn" /></p>
-
-### <p align="center">⚡ ECE 3rd Year Student | Tech Enthusiast | Aspiring Engineer ⚡</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Kesavan</h1>
+<h3 align="center">Electronics and Communication Engineering Student | Tech Explorer</h3>
 
 ---
 
-### 🚀 About Me
-- 🎓 **Education:** Currently pursuing 3rd year in **Electronics and Communication Engineering (ECE)**.
-- 🔭 **Current Goal:** Working on integrating hardware with AI for smarter solutions.
-- 🌱 **Learning:** Deepening my knowledge in Digital Signal Processing and Machine Learning.
-- 👯 **Looking to Collaborate:** On innovative IoT or VLSI projects.
-- 📫 **How to reach me:** [Your LinkedIn URL] | [Your Twitter URL].
+## 🚀 About Me
+- 🎓 3rd Year ECE Student
+- 📚 Currently learning DSA & Core Electronics
+- 🤖 Interested in Embedded Systems & AI
+- 🎯 Preparing for Placements
+- 💬 Ask me about Tech & Projects
+- ⚡ Fun fact: I love building real-world projects
 
 ---
 
-### 🛠 Tech Stack & Tools
+## 🛠️ I Code In
+
 <p align="left">
-  <!-- Use Shields.io for professional badges -->
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,react,nodejs,mysql,arduino" />
 </p>
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical" alt="Top Languages" />
+## 🧰 Tools I Use
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,linux" />
 </p>
 
 ---
 
-### 🏆 Professional Trophies
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app[YOUR_GITHUB_USERNAME]&theme=radical&no-frame=true" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
-<p align="right">
-  <img src="https://komarev.com[YOUR_GITHUB_USERNAME]&color=blue" alt="Profile Views" />
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
