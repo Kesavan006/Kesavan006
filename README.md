@@ -94,21 +94,10 @@ Real-time tracking & anti-theft monitoring ecosystem
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:skesavan970@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
