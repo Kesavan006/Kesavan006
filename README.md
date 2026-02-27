@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=Future+Embedded+Engineer;Tech Enthusiast;Problem+Solver;Always+Building+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
-
 ---
 
 ## 🚀 About Me
