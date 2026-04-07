@@ -60,8 +60,8 @@
 ### 🔥 Emotion Detection System  
 AI-powered sentiment classification with GUI & Email Alerts  
 
-### 🚗 IoT GPS Tracking System  
-Geo-Sentinel: AIand IOT Based Closed-Loop Cyber-Physical System for End-to-End Mineral excuation ecosystem  
+### 🚗Geo-Sentinel Mining Tracking System  
+AIand IOT Based Closed-Loop Cyber-Physical System for End-to-End Mineral excuation ecosystem  
 
 ### ♻️ IOT Based Smart Waste Management Monitoring System
 
