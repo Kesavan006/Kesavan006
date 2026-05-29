@@ -11,7 +11,7 @@
 
 - 🎓 3rd Year ECE Student  
 - 🔌 Passionate about Embedded Systems & FPGA  
-- 📚 Strengthening DSA + Core Electronics  
+- 📚 Strengthening Core Electronics  
 - 🎯 Focused on placements & real-world projects  
 - ⚡ I build hardware + software solutions  
 
