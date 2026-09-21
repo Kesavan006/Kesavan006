@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 
-- 🎓 3rd Year ECE Student  
-- 🔌 Passionate about Embedded Systems & FPGA  
+- 🎓 Final Year ECE Student  
+- 🔌 Passionate about Embedded Systems| Automation | VLSI | PCB design |
 - 📚 Strengthening Core Electronics  
 - 🎯 Focused on placements & real-world projects  
 - ⚡ I build hardware + software solutions  
